@@ -10,6 +10,8 @@ I’m particularly interested in **Competitive Programming** and **Software Deve
 
 <br/>
 
+# Skills
+
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=javascript,c,cpp,html,css,bash,php)](https://skillicons.dev)
 
