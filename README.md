@@ -1,6 +1,6 @@
 # About me
 
-<img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg" width="150" alt="Logo" />
+<!-- <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg" width="150" alt="Logo" /> -->
 
 Hi, I’m **Aftab Hussain**, a sophomore **Computer Science** student at the **Indian Institute of Information Technology, Bhagalpur**.
 
