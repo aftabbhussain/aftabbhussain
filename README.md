@@ -14,7 +14,7 @@ I’m particularly interested in **Competitive Programming** and **Software Deve
 [![Languages](https://skillicons.dev/icons?i=javascript,c,cpp,html,css,bash,php)](https://skillicons.dev)
 
 ### Technologies and Frameworks
-[![Technologies](https://skillicons.dev/icons?i=vite,react,nodejs,tailwind,express,mongodb)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=redis,docker,vite,react,nodejs,tailwind,express,mongodb)](https://skillicons.dev)
 
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,postman,ps,sublime,vscode)](https://skillicons.dev)
