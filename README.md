@@ -11,11 +11,11 @@ I’m particularly interested in **Competitive Programming** and **Software Deve
 <br/>
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=javascript,c,cpp,html,css,bash,php)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=typescript,javascript,c,cpp,html,css,bash,php)](https://skillicons.dev)
 
 ### Technologies and Frameworks
-[![Technologies](https://skillicons.dev/icons?i=redis,docker,vite,react,nodejs,tailwind,express,mongodb)](https://skillicons.dev)
+[![Technologies](https://skillicons.dev/icons?i=redis,rabbitmq,docker,vite,react,nodejs,tailwind,express,mongodb)](https://skillicons.dev)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,postman,ps,sublime,vscode)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,ps,sublime,vscode)](https://skillicons.dev)
 
