@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gif3.gif" height = "600" width="100%" alt="Project Demo">
+  <img src="bgGIF.gif" height = "600" width="100%" alt="Project Demo">
 </p>
 
 # About me
