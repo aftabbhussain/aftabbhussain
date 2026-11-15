@@ -6,13 +6,41 @@
 
 <!-- <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg" width="150" alt="Logo" /> -->
 
-Hi, I’m **Aftab Hussain**, a sophomore **Computer Science** student at the **Indian Institute of Information Technology, Bhagalpur**.
+Hi, I’m **Aftab Hussain**, a 3rd-year **Computer Science** student at the **Indian Institute of Information Technology, Bhagalpur**.
 
-I have a strong passion for technology and began my development journey in high school, where I built my first project—an **Android application**. Since then, I’ve continued exploring and building across different domains of software development.
+I have a strong passion for technology and began my development journey in high school, starting off with **Android Development**. Since then, I’ve continued exploring and building across different domains of software development.
 
 I’m particularly interested in **Competitive Programming** and **Software Development**, with a focus on **MERN Stack**, **DevOps**, **Cloud Computing**, **Generative AI**, and the **Java ecosystem**.
 
+# _aftab_hussain_
+
+<h3 align="center">Software Engineer | Backend & Systems Enthusiast | Competitive Programmer</h3>
+
 <br/>
+
+<table>
+<tr>
+<td width="60%" valign="middle">
+
+### 👨‍💻 A little about me
+
+- 🔭 **Building:** Scalable backend systems, real-time applications, and distributed services.
+- 🌱 **Exploring:** System Design, Networking, WebRTC, Redis, and Cloud Infrastructure.
+- ⚡ **My playground:** Turning complex algorithms into efficient solutions and making servers handle more than they signed up for.
+- 🏆 **Achievements:** ICPC Asia West Regionalist | CodeChef Global Rank 203 | 3★ CodeChef.
+- 💬 **Ask me about:** C++, DSA, Backend Engineering, WebRTC, Redis, and System Design.
+- 📫 **Reach me:** [aftab3ne@gmail.com](mailto:aftab3ne@gmail.com)
+
+</td>
+<td width="40%" align="center" valign="middle">
+
+<img src="gif4.gif" width="100%" alt="GIF" />
+
+</td>
+</tr>
+</table>
+
+# The ToolKit
 
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=typescript,javascript,c,cpp,html,css,bash,php)](https://skillicons.dev)
@@ -23,3 +51,6 @@ I’m particularly interested in **Competitive Programming** and **Software Deve
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,ps,sublime,vscode)](https://skillicons.dev)
 
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aftabbhussain&theme=chartreuse_dark)
