@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="gif1.gif" width="600" alt="Project Demo">
+</p>
+
 # About me
 
 <!-- <img align="right" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg" width="150" alt="Logo" /> -->
