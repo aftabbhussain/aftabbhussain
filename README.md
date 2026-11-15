@@ -51,6 +51,29 @@ I’m particularly interested in **Competitive Programming** and **Software Deve
 ### Tools
 [![Tools](https://skillicons.dev/icons?i=docker,git,github,postman,ps,sublime,vscode)](https://skillicons.dev)
 
+# Stats
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aftabbhussain&theme=chartreuse_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aftabbhussain&theme=chartreuse_dark&name=aftabbhussain)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aftabbhussain&theme=chartreuse_dark&utcOffset=0)
+
+<div align="center">
+  <h3>Connect with me</h3>
+  
+  <a href="https://www.linkedin.com/in/aftabbhussain/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/aftabbhussain" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/aftabb.hussain/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:aftab3ne@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  
+</div>
+
